@@ -2,7 +2,7 @@
 Sistema inmersivo inteligente de archivos distribuidos (p2p) en código abierto: IPFS.
 
 El sistema posee cierto grado de inteligencia, aleatoriedad, memoria, autonomía y reactividad. 
-El contenido multimedia del sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana.
+El contenido multimedia que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana.
 
 Programada con pure data: [https://puredata.info/] + botifAI.app: [https://www.botifai.app/] + Three.js reactive visualization via rutt-etra synth [https://airtightinteractive.com/demos/js/ruttetra/]
 
