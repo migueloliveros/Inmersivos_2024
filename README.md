@@ -1,5 +1,5 @@
 # Inmersivos_2024.
-Se propone un sistema y red inteligente de almacenamiento de contenido multimedia e inmerviso descentralizada y distribuida (p2p), programada en código abierto. 
+Se propone un sistema y red inteligente de almacenamiento de contenido multimedia-inmerviso descentralizado y distribuido (p2p), programado en código abierto. 
 
 El contenido inmersivo y multimedia que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana. 
 
