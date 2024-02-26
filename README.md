@@ -1,10 +1,8 @@
 # Inmersivos_2024.
-Sistema inmersivo inteligente de archivos distribuidos (p2p) en código abierto: IPFS.
+Se propone un sistema y red inteligente de almacenamiento descentralizada y distribuida (p2p) en código abierto. 
 
-El sistema posee cierto grado de inteligencia, aleatoriedad, memoria, autonomía y reactividad. 
-El contenido multimedia que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana.
-
-Programada con pure data: [https://puredata.info/] + botifAI.app: [https://www.botifai.app/] + Three.js reactive visualization via rutt-etra synth [https://airtightinteractive.com/demos/js/ruttetra/]
+El contenido inmersivo y multimedia que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana. El contenido ha sido programado con pure data: [https://puredata.info/] + botifAI.app: [https://www.botifai.app/] + Three.js reactive visualization via rutt-etra synth [https://airtightinteractive.com/demos/js/ruttetra/]
+Los patches creados poseen cierto grado de inteligencia, aleatoriedad, memoria, autonomía y reactividad. 
 
 CID (content ID): [https://bafybeihxxcytm6fwpvpzrii2egiv2xnp3sstuokhctzcwtuwpcajh5ufja.ipfs.nftstorage.link/]
 
