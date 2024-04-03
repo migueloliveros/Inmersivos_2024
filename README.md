@@ -9,4 +9,4 @@ El contenido ha sido programado y editado con: pure data [https://puredata.info/
 
 CID (content ID): [https://bafybeihxxcytm6fwpvpzrii2egiv2xnp3sstuokhctzcwtuwpcajh5ufja.ipfs.nftstorage.link/]
 
-Donations: 0xC634Ed95831acB0429084e7B2456508651d8BF71
+Donations ETH address: 0xC634Ed95831acB0429084e7B2456508651d8BF71
