@@ -1,9 +1,9 @@
 # Inmersivos_2024.
 Se propone un sistema y red inteligente de almacenamiento de contenido multimedia-inmerviso descentralizado y distribuido (p2p), programado en código abierto. 
 
-El contenido inmersivo y multimedia que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana. 
+El contenido inmersivo y multimedia (.mov,.mp4,.wav, etc.)  que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana. 
 
-El contenido ha sido programado con: pure data [https://puredata.info/] + botifAI.app [https://www.botifai.app/] + Three.js reactive visualization via rutt-etra synth [https://airtightinteractive.com/demos/js/ruttetra/].
+El contenido ha sido programado y editado con: pure data [https://puredata.info/] + botifAI.app [https://www.botifai.app/] + Three.js reactive visualization via rutt-etra synth [https://airtightinteractive.com/demos/js/ruttetra/].
 
 [Nota: Los patches creados en Pure Data poseen cierto grado de inteligencia, aleatoriedad, memoria, autonomía y reactividad]. 
 
