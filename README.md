@@ -1,4 +1,4 @@
-# Inmersivos_2024.
+# v.0.0._2024.
 Se propone un sistema y red inteligente de almacenamiento de contenido multimedia-inmerviso descentralizado y distribuido (p2p), programado en código abierto. 
 
 El contenido inmersivo y multimedia (.mov,.mp4,.wav, etc.)  que archiva el sistema se focaliza en la distopia de la guerra y sus efectos en la condición humana. 
